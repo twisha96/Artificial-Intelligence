@@ -15,9 +15,4 @@ Information regaring the code files -
 
 3. CNN_RGB.ipynb: Three separate networks for RGB value.
 
-4. CNN_Stochastic_gradient_Descent.ipynb: Stochastic Gradient Descent of CNN
-
-5. Classification.py: Classifying the pixels into K color palette and making the model classify the classes instead of the (r,g,b) values. 
-
-
-
+4. Classification.py: Classifying the pixels into K color palette and making the model classify the classes instead of the (r,g,b) values. 
